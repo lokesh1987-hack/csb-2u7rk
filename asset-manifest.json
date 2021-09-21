@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/main.0e12e372.chunk.js",
+    "main.js.map": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/main.0e12e372.chunk.js.map",
+    "runtime-main.js": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/runtime-main.8312b1dd.js",
+    "runtime-main.js.map": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/runtime-main.8312b1dd.js.map",
+    "static/js/2.37539edd.chunk.js": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/2.37539edd.chunk.js",
+    "static/js/2.37539edd.chunk.js.map": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/2.37539edd.chunk.js.map",
+    "index.html": "https://lokesh1987-hack.github.io/csb-2u7rk/index.html",
+    "static/js/2.37539edd.chunk.js.LICENSE.txt": "https://lokesh1987-hack.github.io/csb-2u7rk/static/js/2.37539edd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8312b1dd.js",
+    "static/js/2.37539edd.chunk.js",
+    "static/js/main.0e12e372.chunk.js"
+  ]
+}
